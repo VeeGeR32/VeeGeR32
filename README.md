@@ -4,7 +4,7 @@
 Hi, I'm Alioune, a web development enthusiast based in Toulouse. With a strong background in building web applications, I constantly strive to explore new technologies and take on exciting challenges.
 
 ## SKILLS
-- 💻 Front-end development: HTML, CSS, JavaScript (React, Vue.js)
+- 💻 Front-end development: HTML, CSS, JavaScript (React/Vite/Next.js)
 - 🚀 Back-end development: Node.js, Express.js
 - 🛠️ Tools: Git, Webpack, npm
 - 📱 Mobile apps: React Native
