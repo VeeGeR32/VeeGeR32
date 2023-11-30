@@ -10,7 +10,7 @@ Hi, I'm Alioune, a web development enthusiast based in Toulouse. With a strong b
 - 📱 Mobile apps: React Native
 -
 ## Contact
-Do not hesitate to contact me to discuss projects, collaborations or simply to exchange ideas! 📧 [email](mailto:aliounediallo32000@gmail.com) | 🌐 [Portfolio](https://alioune.dev)
+Do not hesitate to contact me to discuss projects, collaborations or simply to exchange ideas! 📧 [email](mailto:aliounediallo32000@gmail.com) | 🌐 <a href="https://alioune.dev" target="_blank">Portfolio</a>
 
 ## Objective
 My goal is to create innovative and user-friendly web solutions that improve the user experience. Passionate about technology, I am always ready to learn and evolve.
