@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile! 👋
 
 ## About me
-Hi, I'm Alioune, a web development enthusiast based in Toulouse. With a strong background in building web applications, I constantly strive to explore new technologies and take on exciting challenges.
+Hi, I'm Alioune, a web development enthusiast based in the south of France. With a strong background in building web applications, I constantly strive to explore new technologies and take on exciting challenges.
 
 ## SKILLS
 - 💻 Front-end development: Tailwind, JavaScript (React/Next.js)
